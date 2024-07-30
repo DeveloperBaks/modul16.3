@@ -9,7 +9,7 @@ import UIKit
 
 class ViewController: UIViewController {
 
-    var name  = "Shodon Rizoev"
+    var name  = "Bakastov Andrey"
     
     override func viewDidLoad() {
         super.viewDidLoad()
